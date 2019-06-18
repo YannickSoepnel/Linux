@@ -1,0 +1,11 @@
+Op de master-server is geïnstalleerd:
+* Munin
+* Rsyslog
+* Saltstack
+
+Op de minion servers is geïnstalleerd:
+* Munin-node (In een docker-container)
+* Rsyslog
+* Saltstack-minion
+* Docker-CE
+* Wordpress (In een docker container)
